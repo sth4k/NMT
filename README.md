@@ -47,3 +47,11 @@ pytorch version of fairseq
 
 
 
+## Constrained Machine Translation
+
+### lexical constraints
+
+E.g. "American peot Edgar Allan Poe", the English phrase "Edgar Allen Poe" must be translated to Chinese word "Ailunpo"
+
+
+### structural constraints
