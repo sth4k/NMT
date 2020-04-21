@@ -1,5 +1,8 @@
 # NMT
 
+- [General Training Pipeline](#i-general-training-pipeline)
+- [Constrained Machine Translation](#ii-constrained-machine-translation)
+
 ## chat translation
 1. data labeling
 2. data preprocess (moses)
@@ -15,7 +18,7 @@
   - meaning of bpe_operations and algo?
 5. train with fairseq
 
-## Genearl Pipeline
+## I. General Training Pipeline
 
 Raw Text -> Text Cleaning -> Tokenizer -> Apply BPE -> Model Training -> Remove BPE and Detoke -> BLEU
 
@@ -47,7 +50,7 @@ pytorch version of fairseq
 
 
 
-## Constrained Machine Translation
+## II. Constrained Machine Translation
 
 ### lexical constraints
 
