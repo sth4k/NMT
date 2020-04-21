@@ -2,6 +2,7 @@
 
 - [General Training Pipeline](#i-general-training-pipeline)
 - [Constrained Machine Translation](#ii-constrained-machine-translation)
+- [Useful References](#iii-useful-references)
 
 ## chat translation
 1. data labeling
@@ -58,3 +59,10 @@ E.g. "American peot Edgar Allan Poe", the English phrase "Edgar Allen Poe" must 
 
 
 ### structural constraints
+
+
+## III. Useful References
+
+[1] [施杨斌 让商业没有语言障碍 深度学习在阿里机器翻译的应用](https://myslide.cn/slides/9990#)
+
+
